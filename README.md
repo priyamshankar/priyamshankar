@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/priyamshankar/github-readme-activity-graph"><img alt="Priyam Shankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyamshankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Priyam Shankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyamshankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -68,10 +68,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/priyam-shankar-2921b51bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/priyamshankar11"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
 
 </p>
 
