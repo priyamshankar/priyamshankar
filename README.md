@@ -47,7 +47,15 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyam Shankar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamshankar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+                                                                                                     
+<p align="center">
+    <a href="https://github.com/priyamshankar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyam Shankar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamshankar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+                                                                                                     
+                                                                                                     
 ## 📊 My Github Stats
 
   <br/>
