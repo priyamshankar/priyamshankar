@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Enigma Machine development.**
+- 🔭 I’m currently working on **Expense Manager App.**
 
 - 🌱 I’m currently learning Backend Development.
 
