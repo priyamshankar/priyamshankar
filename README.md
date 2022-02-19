@@ -71,6 +71,8 @@
 ## Connect with me:
 <p align="left">
 
+    
+
 <a href = "https://www.linkedin.com/in/priyam-shankar-2921b51bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/priyamshankar11"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
@@ -82,3 +84,16 @@
     <img src="https://komarev.com/ghpvc/?username=priyamshankar">
 </a>
 <a href="https://github.com/priyamshankar?tab=followers"><img src="https://img.shields.io/github/followers/priyamshankar?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+    # Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyamshankar&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=priyamshankar&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
