@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Expense Manager App.**
+- 🔭 I’m currently working on **OS Development.**
 
-- 🌱 I’m currently learning Backend Development.
+- 🌱 I’m currently learning OS Development.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
