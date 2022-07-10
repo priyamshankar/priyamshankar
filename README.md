@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **OS Development.**
+- 🔭 I’m currently working on **OS Development, and Sandesha chatApp.**
 
 - 🌱 I’m currently learning OS Development.
 
