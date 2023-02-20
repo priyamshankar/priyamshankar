@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **OS Development, and Sandesha chatApp.**
+- 🔭 I’m currently working on **Vehicle threat detection and surveillance cam web app**
 
-- 🌱 I’m currently learning OS Development.
+- 🌱 I’m currently learning web rtc and aws development.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
